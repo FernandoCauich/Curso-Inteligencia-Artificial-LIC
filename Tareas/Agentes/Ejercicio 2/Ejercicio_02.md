@@ -48,6 +48,7 @@ Actuators: Motores de hélices (vuelo), estabilizador de cámara (gimbal).
 Sensors: Cámaras de alta resolución/térmicas, GPS, telémetro ultrasónico o LIDAR, giroscopio.
 
 8. Agente jugador de ajedrez
+
 Performance: Porcentaje de victorias (lograr el jaque mate), gestión del tiempo del reloj.
 Environment: Totalmente observable, determinista, secuencial, estático, discreto (tablero de 64 casillas, sin azar y reglas estrictas).
 Actuators: Ejecución de movimientos en la interfaz gráfica o envío de jugadas en notación.
